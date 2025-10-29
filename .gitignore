@@ -1,0 +1,4 @@
+.venv
+.idea
+*.csv
+packaging_sim.py
