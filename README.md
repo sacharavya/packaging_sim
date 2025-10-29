@@ -138,4 +138,3 @@ The model can be used to:
 
 Created for research and simulation of **manufacturing/warehouse packaging lines**.  
 Author: Saurav Acharya
-License: MIT (if unspecified, treat as proprietary unless declared).
